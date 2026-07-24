@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -56,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
