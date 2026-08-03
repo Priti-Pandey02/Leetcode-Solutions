@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
