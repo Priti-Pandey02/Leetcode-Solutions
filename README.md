@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
