@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0830-positions-of-large-groups](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0830-positions-of-large-groups) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
