@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Simulation
 |  |
 | ------- |
