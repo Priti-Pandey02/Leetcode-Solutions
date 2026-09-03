@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1470-shuffle-the-array](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Priti-Pandey02/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
